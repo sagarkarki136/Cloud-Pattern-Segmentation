@@ -4,4 +4,4 @@
 ### The image below shows images in the following order:  original image , Fish pattern segmentation, Flower pattern segmentation,  Gravel pattern segmentation and sugar pattern segmenetation
 ![](segmentations.png)
 
-### For the model iles , kindly mail me at sagarkarki136@gmail.com and I will send them to you.
+### For the model files , kindly mail me at sagarkarki136@gmail.com and I will send them to you.
